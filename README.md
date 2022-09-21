@@ -6,4 +6,4 @@
 3. [Банки](banks/readme.md)
 
 ## Внесение изменений
-[Открыть в редакторе](https://github.dev/Canada-Knowledgebase/Finances/blob/main/readme.md)
+[Открыть в редакторе](https://github.dev/Canada-Knowledgebase/Finances)
