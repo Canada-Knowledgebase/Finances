@@ -1,0 +1,6 @@
+# exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/  
+
+# exclude OS settings and caches
+.trash/
+.DS_Store
