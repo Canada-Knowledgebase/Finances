@@ -5,6 +5,4 @@
 2. [Инвестиции](investment/readme.md)
 3. [Банки](banks/readme.md)
 4. [Недвижимость](realestate/readme.md)
-
-## Внесение изменений
-[Открыть в редакторе](https://github.dev/Canada-Knowledgebase/Finances)
+5. [Наличные деньги](cash/readme.md)
