@@ -5,7 +5,7 @@
 3. [Registered Education Savings Plans (RESPs)](resp/readme.md)
 
 ## Брокеры
-[Доступыне в канаде брокеры](borkers)
+[Доступыне в канаде брокеры](brokers.md)
 
 ## Другие опции инвестирования
 
