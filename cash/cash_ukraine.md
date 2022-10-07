@@ -1,4 +1,4 @@
 ## Вывод денег из Украины
-
-1. правила вывоза денег из Украины: https://customs.gov.ua/en/informatsiia-dlia-gromadian 
+[Source](https://t.me/canada_finances/84187)
+Правила вывоза денег из Украины: https://customs.gov.ua/en/informatsiia-dlia-gromadian 
 При вывозе свыше 10к евро на человека (дети считаются) надо показывать документы из банка и они действительны 90 дней
