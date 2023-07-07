@@ -5,4 +5,4 @@
 2. [Инвестиции](investment/readme.md)
 3. [Банки](banks/readme.md)
 4. [Недвижимость](realestate/readme.md)
-5. [Наличные деньги](cash/readme.md)
+5. [Деньги](cash/readme.md)
