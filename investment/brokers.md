@@ -17,7 +17,7 @@
 [-] Транзакции стоят денег (Кроме ETF) <br>
 [Подробный обзор](https://www.investopedia.com/questrade-review-5070359)
 
-3. [Interactivebrokers](https://www.interactivebrokers.ca/en/home.php) ([реферальная ссылка](https://ibkr.com/referral/aliaksei120))
+3. [Interactivebrokers](https://www.interactivebrokers.ca/en/home.php)
 Самый продвинутый брокер. <br>
 [-] Обладателям паспортов ряда токсичных стран (например беларуси) счет не открывают (на момент 2022 года). <br> 
     _UPD:_ в октябре 2023 получилось открыть счёт с паспортом РБ даже без канадского PR-а, в качестве документов были предоставлены фотографии рабочей визы и work permit-а.<br>
