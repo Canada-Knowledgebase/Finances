@@ -10,7 +10,7 @@
 Так же имеет [робо инвестора](https://www.wealthsimple.com/en-ca/learn/what-is-robo-advisor) который будет за % инвестировать.<br> [Обзор](https://www.investopedia.com/wealthsimple-review-4684946);
 [Подробный обзор](https://www.investopedia.com/wealthsimple-trade-review-6503907)
 
-2. [Questrade](https://questrade.com/) ([реферальная ссылка](https://start.questrade.com/?oaa_promo=776430799458399) ). 
+2. [Questrade](https://questrade.com/) ([реферальный код  ссылка](https://start.questrade.com/?oaa_promo=776430799458399) дает нам обоим 50$ на момент 2024г). 
 Внизу [этой](https://www.questrade.com/about-us/programs-promotions) страницы есть список различных промоакций.
 Более продвинутый брокер, с более подробной информацией об акциях, помимо акций можно торговать многим другим. Так же [имеют](https://www.questrade.com/pricing/questwealth-portfolios-fees) полуавтоматический режим инвестирования за %. <br>
 [+] Может напрямую работать с USD, списывая прямо с банковского счета. <br>
